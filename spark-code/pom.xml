@@ -12,6 +12,7 @@
         <module>spark-self</module>
         <module>spark-study-java</module>
         <module>spark-study-scala</module>
+        <module>machine-learning</module>
     </modules>
 
 
